@@ -1,11 +1,13 @@
 # microservices-arch-example
 
 * [ ]  CI e CD
-* [ ]  Orquestração
+* [ ]  Orquestração (Kubernetes?)
 * [ ]  Service mesh
 * [ ]  DNS?
 * [ ]  Monitoração
-* [ ]  Terraform
+* [ ]  Logging
+* [ ]  Terraform (Cloud or Openstack)
 * [ ]  Segurança
+    * [ ] Hashicorp Vault
 * [ ]  Testes
     * [ ]  BDD
